@@ -1,0 +1,16 @@
+Open MATLAB in the src/ directory.
+
+Run the script:
+
+swt_swr_fuse_final
+
+
+Select two multimodal medical images (CT/MRI, MRI/PET, etc.).
+
+The script will:
+
+Generate a final saliency-guided fused image
+
+Print quantitative metrics (FMI, FF, SD, Entropy, SCD) in the MATLAB console
+
+Save the fused image as fused_image_final_saliency.jpg
